@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "329CDEC45F8FA32A7E0FAE7817AAEEB95E458111",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "329CDEC45F8FA32A7E0FAE7817AAEEB95E458111" : 0,
+    "6120DDFD59F18EF483FB1B8F23F26D8AC463CC77" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9342CEF5-9A99-421A-8048-926F33C57B67",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "329CDEC45F8FA32A7E0FAE7817AAEEB95E458111" : "Breakout\/",
+    "6120DDFD59F18EF483FB1B8F23F26D8AC463CC77" : "Break"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Break",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Break.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Will16\/Breakout.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "329CDEC45F8FA32A7E0FAE7817AAEEB95E458111"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/joalbright\/Break.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6120DDFD59F18EF483FB1B8F23F26D8AC463CC77"
+    }
+  ]
+}
